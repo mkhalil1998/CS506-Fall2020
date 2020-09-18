@@ -1,7 +1,8 @@
 def draw_mall():
     print("mall not found")
-   
+#def draw_mall(height=1)
 
+   
            print("---------------------------------------------")
         print(" /                                            / |")
        print(" /                                            /  |")
