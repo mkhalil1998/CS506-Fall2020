@@ -7,3 +7,5 @@ Code, slides, and notes for Boston University CS506 Fall 2020
 ___
 
 The Final Project Repository can be found [here](https://github.com/BU-Spark/CS506-Fall2020-Projects)
+
+Changes to read me file 
